@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmailService", "EmailService\EmailService.csproj", "{CE5B81AF-4B1E-48E9-B87A-D1D5E5C90DF3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csproj", "{900D63A5-4FC5-464B-B499-5EAEDC5103FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{A7830D3C-DCC0-40FE-9E21-36AED0EA45FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE5B81AF-4B1E-48E9-B87A-D1D5E5C90DF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE5B81AF-4B1E-48E9-B87A-D1D5E5C90DF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE5B81AF-4B1E-48E9-B87A-D1D5E5C90DF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE5B81AF-4B1E-48E9-B87A-D1D5E5C90DF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{900D63A5-4FC5-464B-B499-5EAEDC5103FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{900D63A5-4FC5-464B-B499-5EAEDC5103FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{900D63A5-4FC5-464B-B499-5EAEDC5103FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{900D63A5-4FC5-464B-B499-5EAEDC5103FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7830D3C-DCC0-40FE-9E21-36AED0EA45FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7830D3C-DCC0-40FE-9E21-36AED0EA45FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7830D3C-DCC0-40FE-9E21-36AED0EA45FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7830D3C-DCC0-40FE-9E21-36AED0EA45FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {296B7234-8662-4F1E-820B-CB894A20458E}
+	EndGlobalSection
+EndGlobal
